@@ -1,14 +1,13 @@
 ---
-title: "Welcome to My Cognitive Psychology Blog"
+title: "Introduction to Cognitive Psychology"
 description: |
-  Welcome to our new blog, My Cognitive Psychology Blog. We hope you enjoy 
-  reading what we have to say!
+  What even is cognitive psychology?
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 08-30-2020
+  - name: Janelle C.R. Mendoza 
+    url: https://nerdwiththebeanie.netlify.app/
+    affiliation: Brooklyn College
+    affiliation_url: http://www.brooklyn.cuny.edu/web/home.php
+date: 08-27-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -22,5 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# What is Cognition?
+Cognition according to Oxford Languages is defined as, "the mental action of process of acquiring knowledge and understanding through thought, experience, and the sense." But if you were to ask me what the word means I'd probably go with a very unsatisfactory, *I don't know* because after 4 years under a bachelor's focusing on animal behavior---I still don't know.
 
-
+# Goals For This Course

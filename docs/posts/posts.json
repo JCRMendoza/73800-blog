@@ -1,18 +1,34 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to My Cognitive Psychology Blog",
-    "description": "Welcome to our new blog, My Cognitive Psychology Blog. We hope you enjoy \nreading what we have to say!",
+    "path": "posts/week1/",
+    "title": "Week 1 Foundations",
+    "description": "Thoughts on Miller",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Janelle C.R. Mendoza",
+        "url": "https://nerdwiththebeanie.netlify.app/"
       }
     ],
     "date": "2020-08-30",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-08-30T11:25:14-07:00",
-    "input_file": {}
+    "last_modified": "2020-08-30T11:53:15-07:00",
+    "input_file": "week1.utf8.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Introduction to Cognitive Psychology",
+    "description": "What even is cognitive psychology?",
+    "author": [
+      {
+        "name": "Janelle C.R. Mendoza",
+        "url": "https://nerdwiththebeanie.netlify.app/"
+      }
+    ],
+    "date": "2020-08-27",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-30T11:49:02-07:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
