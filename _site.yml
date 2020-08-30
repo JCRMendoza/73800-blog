@@ -1,0 +1,12 @@
+name: "73800-blog"
+title: "My Cognitive Psychology Blog"
+description: |
+  My Cognitive Psychology Blog
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
