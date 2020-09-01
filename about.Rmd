@@ -9,6 +9,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Hello There
-This is my blog for PSYC73800 at The Graduate Center CUNY. Here I will be cataloging and organizing my thoughts, but it also will serve as a bit of a companion to my website/online resume that is currently under construction.
+My name is Janelle C.R. Mendoza and this is my blog for PSYC73800 at The Graduate Center, CUNY. Here I will be cataloging my thoughts and logging my journey throughout this course, as well as be a companion piece to my website/online resume that is currently under construction.
 
 [Check it out here](https://nerdwiththebeanie.netlify.app/)
+
+**Note:** Clicking on my name on any blog post will also redirect to my website.
