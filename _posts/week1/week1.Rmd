@@ -7,7 +7,7 @@ author:
     url: https://nerdwiththebeanie.netlify.app/
     affiliation: Brooklyn College
     affiliation_url: http://www.brooklyn.cuny.edu/web/home.php
-date: 08-30-2020
+date: 09-02-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -22,38 +22,53 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Miller (1956)
-*The Magical Number Seven, Plus or Minus Two* focuses on the limitations of human memory and the limitations of testing short-term memory. Described as an "information channel capacity" he remarks that the range of human memory for single stimuli is only four to eight "bits" (units of information).
-He proceeds onto multi-dimension stimuli and chunks on the 
+"The Magical Number Seven, Plus or Minus Two" focuses on the limitations of human short-term memory. Described as an "information channel capacity" he remarks that the range of human memory for single stimuli is only four to eight different states of the same stimuli. He proceeds to discuss multi-dimension stimuli and the concept of "chunks" which are large collections of "bits" (a unit of information) that consolidates bits together through a scheme such as language. This is why we can memorize beyond letter sequences or syllables into words.
 
 ### Initial Reaction
-From the title, I immediately was drawn back to a class I took back in my bachelor's centered on learning and memory which was my first exposure to George Miller and the limitations of short-term memory. One of the topics that we focused on during that course was the ability to chunk and have larger "bits" of information stored. Miller weighs on the variability of the system, both input and output
+From the title, I immediately was drawn back to a class I took in my bachelor's centered on learning and memory which was my first exposure to George Miller's work. One of the topics that we focused on during that course was the ability to chunk and have larger "bits" of information stored. We had to remember a long string of numbers, much larger than 7 digits. Through the process of chunking, we were tested on multiple occasion including a week after the initial exposure. I can still remember part of the numbers: 8675309 better known as Jenny's number, 95521 the zip code of my old school, and 1984 the title of a well-known book by George Orwell. It amazes me that I can still remember part of that sequence (which had maybe around 25+ individual digits) due to my previous associations and chunking.
 
-### One-Dimension Stimuli
-As someone who has a background in music and grew up in a family where music was a form of bonding, the tone experiment took me a bit by surprise. However, I suppose that there is n
+### Measuring Information + Input and Output
+Miller begins laying out the concept of measuring information under the term "variance." The issue with information is that unlike other qualities that can become scalers or vectors such as distance, force, velocity, etc. it does not have a dimension making it hard to create a unit for it. The visualization of Venn diagrams  describes input-output with an overlap being the transmitted information. Input would be the initial stimuli and output would be the response."Channel capacity" would be the amount of information before confusion, in other words when there is too many alternatives to accurately recall all of them.
 
-### Multi-Dimension Stimuli
+### One-Dimension versus Multi-Dimension Stimuli
+As someone who has a background in music and grew up in a family where music was a form of bonding, the tone experiment took me a bit by surprise. However, I suppose that there is no difference between an untrained ear and our general sense of taste. While some people are born with perfect pitch or absolute, people with relative pitch can train to improve their pitch recall and function like they have absolute pitch. I wonder how the figure would differ between that of music professionals and the general public. Testing further on multi-dimensional stimuli, the variance doesn't change significantly. Two of the experiments cited in the one-dimension stimuli were tone and loudness, but those factors together do not change the "variance."
 
+### Recoding
+One of the most important topics found in this paper is the ability to use patterns of information to remember more. Language would likely be impossible without the capacity to chunk syllables into words, much like two hydrogens and one oxygen atom must be bonded together to become what we know as water. Merging information into single packet comes so naturally to us, it would be difficult to imagine a world where our brains do not have the capacity to do so.
 
 ### Final Thoughts
-
+Miller's work on short-term memory capacity and how we can improve our ability absorb larger amounts of information. From the concept of chunking to mind palaces, people are always searching for better methods of internalizing information. That said, chunking is simply more than a tool to remember more, but fundamental to how we communicate. 
 
 # Newell (1973)
-Newell's commentary on the limitations of our 
+Newell's commentary on the challenges of researching cognition and how there is not a unifying nature to contributions within the field, as many of the lines of research are selective but not cohesive. Many experiments have a binary method of testing certain phenomenon. He then suggests what must resolved in order to have a unifying theory of behavior.
 
 ### Initial Reaction
-The paper starts off rather amusing, the parallel structure of introduction with juxtaposition of concern and then clarity was provocative in a way. 
+The paper starts off rather amusing, the parallel structure of introduction with juxtaposition of concern and then clarity was provocative in a way given Newell's critique of how cognitive sciences approach their experiments. I would have to agree with him that even today the field seems disjointed and while the unknown remains abundant it still seems so far away to understanding behavior in a set theory. Many researchers have mixed feelings about generalization as to not become reductive, which I can agree with. Still, the segmented nature of psychology research should be improved upon.
 
+### The Problems To Resolve
+Problems that Newell identified were within the experimental method of researchers, knowing their participants and not averaging over methods. Methods within papers vary wildly which cannot bring much clarity. Furthermore, there are several studies that have unanswered questions that still need to be revisited.
+
+### The Future
+Newell goes on to propose that modeling would be the best way to control structures and get closer to unifying experiments. He mentions the limitations of flow diagrams as they cannot perform tasks and looks to the capacity of artificial intelligence to build unity of ideas.
 
 ### Final Thoughts
+With how spread experiments are in psychology, there will always be new roads to explore and build on previous information. New breakthroughs, no matter how small, are always bound to happen, yet it would be interesting to attempt a unification of these ideas.
 
 # Schacter et al. (1978)
+The final paper takes a different approach in which the authors explore the research of Richard Semon, who proposed ideas on physical changes caused by memory and the benefits of repetition on memory. Interestingly enough, his work still is not as cited despite the importance of his contributions.
+
 ### Initial Thoughts
-From the start of the paper, the details of Richard Semon's life caught my eye as the circumstances of a researcher's life aren't normally touched on enough. 
+From the start of the paper, the details of Richard Semon's life caught my eye as the circumstances of a researcher's life aren't normally touched on enough. An entertaining coincidence that he happened to study with Ernest Haeckel whose theory I mentioned in my prior blog post. Nonetheless, it is unfortunate that many notable figures throughout history were classified as contentious during their time and do not get the accreditation they deserve for their contributions.
+
+### Semon's Theory on Memory
+Semon has two important laws---the "Law of Engraphy" and the "Law of Ecphory"---the prior referring to how memories are encoded and the latter referring to the process of recall. He also coined the term "engram" to refers to physical changes of encoding information. 
+
+### Homophony and Repetition 
+Homophony is a term coined by Semon to describe the combination of multiple engrams during the time of recall to create a unique engram. Additionally, he postured that repetition would strengthen memory. 
+
 
 ### Final Thoughts
+It remains unfortunate that his contemporaries weren't too keen on Semon's ideas, but his theories became foundation into analysis of recall versus recognition. In essence, just how deeply ingrained information is stored beyond the short-term memory as discussed by Miller. It's a bit surprising that the concept of repetition improving memory and physical changes accompany memories was not discussed prior to his work. 
 
-# Overall
-Out of all the papers, I think I enjoyed reading Schacter et al. (1978) the most, one due to the clarity of concepts and two because I just found myself more interested in those concepts. The paper I was surprisingly least interested in was Newell's
-
-# Tangential
-This is not related to anything within the papers themselves, but the hardest part of this assignment was to format the blog. I tried breaking it into sections that can be followed within the papers, but should we have another assignment like this I might do some revisions to how I approach writing a response to the papers.
+# Conclusion
+Out of all the papers, I enjoyed reading Schacter et al. (1978) the most. Richard Semon remains rather unknown despite his important contributions to the field. This is contrasted by George Miller which held prominence throughout his whole career. Memory is a core element into the capacity to learn and then execute what one has learned. Miller's work primes for short-term memory, whereas Semon's focused on memories and retrieval. Both works and components are fundamental to our understanding of memory and our ability to learn information. Newell's concerns for research are warranted as they still remain a problem even today. The difficulty of integrating all the phenomenon explored into a set theory for behavior or perhaps a consolidated approach to researching is still a problem in modern day. From our first class it's actually astonishing to see how many different sub-domains exist to cognition. I think the capacity to be able to generalize into a theory of behavior is important, however that might not be possible with how vast the field is.
