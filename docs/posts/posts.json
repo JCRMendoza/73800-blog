@@ -1,5 +1,21 @@
 [
   {
+    "path": "posts/week2/",
+    "title": "Week 2 Foundations",
+    "description": "Cognition and computational modeling",
+    "author": [
+      {
+        "name": "Janelle C.R. Mendoza",
+        "url": "https://nerdwiththebeanie.netlify.app/"
+      }
+    ],
+    "date": "2020-09-06",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-09-06T14:36:02-07:00",
+    "input_file": "week2.utf8.md"
+  },
+  {
     "path": "posts/week1/",
     "title": "Week 1 Foundations",
     "description": "Thoughts on Miller, Newell and Schacter et al.",
@@ -12,7 +28,7 @@
     "date": "2020-09-02",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-09-03T21:14:57-07:00",
+    "last_modified": "2020-09-06T14:17:34-07:00",
     "input_file": "week1.utf8.md"
   },
   {
