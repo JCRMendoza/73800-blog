@@ -7,7 +7,7 @@ author:
     url: https://nerdwiththebeanie.netlify.app/
     affiliation: Brooklyn College
     affiliation_url: http://www.brooklyn.cuny.edu/web/home.php
-date: 09-06-2020
+date: 09-09-2020
 output:
   distill::distill_article:
     self_contained: false
@@ -22,22 +22,35 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Hintzman (1986)
+Following our recounting of Richard Semon's work and the concerns of Newell, the simulation model of episodic memory seen in Hintzman's paper ties our foundational concerns. Hintzman uses the Minerva 2 to model episodic memory, the process of retrieval and schema-abstraction tasks. 
 
 ### Initial Reaction
-
+Scrolling through Hintzman's paper, the figures within the paper immediately caught my interest. In my math seminar course, we had worked with a numeral system known as the balanced ternary system it's a type of base 3 logic system that uses -1, 0, +1. Nevertheless, upon further reading of the article I don't believe Hintzman was actually aware of the naming convention and it's mathematics history only that it was a very useful method to achieve what he wanted. *After doing an extensive search through his references and history as well as Bower's it doesn't seem like they knew the name and other uses for it.*
 
 ### Final Thoughts
+It is interesting how Semon's work and thought process seem so ubiquitously taught in psychology. I don't think I could imagine how we would talk about memory without such concepts such as: recall, repetition and recognition. Yet, his work and name in particular still eludes what feels like a substantial portion of those who work on the same topic. *Certainly, information about him was sparse in my search results.* Given how technology was about 40 years ago and how different our perspective on computational modeling is now, the MINERVA 2 is highly impressive. 
+
+While perhaps not the intention of Hintzman, thinking about the applications of using a ternary logic system over a binary logic system may open up the field to how we model. For instance in unknown-state logic and rather than just true or false, we can also say that a variable is unknown or irrelevant. Perhaps one could model that within a hidden layer or computing layer of a neural network that a variable can go from irrelevant to relevant (be it true or false) in some sort while loop or additional criteria. An example of this is SQL a programming language commonly used for servers which has FALSE, NULL, and TRUE. It could map how our brains may only use certain neurons when relevant to the task or perhaps if the models become so complex maybe the could showcase that different roads of logic can lead to the same answer. Additionally, there is a resurgence in the interest of using ternary logic in quantum computing moving away from qubits to qutrits, so perhaps computer science and engineering will also head in this direction.
 
 # Aujla et al. (2019)
+Researchers from various fields utilize the same words for different concepts which can often lead to a disconnect and inability to utilize keywords to their maximum effect. Identifying how we can build better search queries for research will amplify our capacity to share ideas and work off each other's research.
 
 ### Initial Reaction
+From the abstract, I found the article to be an interesting use of computational modeling and researching into human semantic memory. Many times I think of computational modeling to behavior usually in the form of neural network, however I do think there is an importance to help streamline the way we find research. Part of the things I think about with my background in zoology, mathematics and psychology is that many times we have the same words with completely different meanings (often more subtle but enough to confound searches) or even worse within neuroscience, wider anatomy and then mammalogy different words for the exact same body part. 
 
 ### Final Thoughts
+While not inherently about the article's content, the capability of R Studio and sharing models and packages. Throughout my bachelor's ecology course we used different shiny apps to create several sophisticated models of population and biodiversity and I look forward to all the interesting uses of R. Including something like this blog. Moving back to the importance of this article, insight into human semantic behavior can create better search algorithms.
 
-# Crump, Lai, Brosowky (2019)
+# Crump, Lai, Brosowsky (2019)
+Exploring how our brains have internalized language structure and the construction of language in various forms (in this case typing and word patterns) can indicate to use how context-specific instances can affect our skill performance and memory. Crump, Lai and Brosowsky explore the typing English text and how our learning processes are sensitive to patterns. 
 
-### Initial Thoughts
+### Initial Reaction
+From our previous class and the concept instance theory, I took some time to think about how computers store memory which does resemble instance theory very well. That said, I had some concerns about the factors of attention and other processes that happen in the background for humans. (Although one could make an argue about memory use and loss in computers could possibly be a great model how background processes can affect our memory.) We don't often think about how unnatural many of our activities are and how our brains and our muscles work together to make these actions feel seamless. 
 
 ### Final Thoughts
+An idea popped into my head after thinking about the modern day patterns of English and it would be interesting to see how different languages might effect results or if it will only reinforce the notion that our brains look for patterns and move in the direction of instance theory versus the more well-known memory box. For instance, Japanese has three different writing systems, hiragana, katakana and kanji (4 if you count romaji, the romanization of the language) but from what I know about their keyboards it starts in hiragana and additional modifiers. Most languages use a qwerty keyboard system, but with their own unique modifiers and placement of symbols. If it were the case that all languages have patterns in their typing, we may see similar results and even more of an argument for instance theory.
+
+An additional thought I had was regarding Old English or Middle English and how the modern English reduces both character count but have a deviation from a lot of patterns found in these older versions of English. I don’t know if would be beneficial to the point of what the original article made; however, it could be an interesting topic to explore in upcoming modules.
 
 # Conclusion
+The importance of computational modeling within cognitive psychology can help consolidate the issues discussed within Newell's article from last week. Though after our discussion within class an addendum to my thoughts must be added, phenomenon research can be a good thing and should. Computational modeling and artificial intelligence can help us understand the brain alongside the phenomenon experiments. Nonetheless, I look forward to the various uses of computational modeling and to see how psychology will work alongside computer science to discover more about ourselves. A point that was raised in another class of mine was the fear of AI and the concept of creating machinery that surpasses our intellectual capacity. And to that fear I think we must first address what is "intelligence" and what is the most ethically sound way to build these models? We as scientists should always look at the broader impact of our research and the more I think about computational models the more sensitive I am to the topic.
